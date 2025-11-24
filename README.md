@@ -36,11 +36,6 @@ Actuellement en formation intensive chez **O'Clock** (2025-2026).
 - 🎨 **Sensibilité UX/UI** : Créer des interfaces intuitives et agréables
 - 🌱 **Apprentissage continu** : Toujours curieuse d'apprendre de nouvelles technologies
 
-### 📊 Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=daphne-autrive&show_icons=true&theme=radical&locale=fr)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=daphne-autrive&layout=compact&theme=radical&locale=fr)
 
 ### 🚀 Projets en vedette
 
