@@ -1,6 +1,6 @@
-# Salut, moi c'est Daphné !
+# 👋🏼 Salut, moi c'est Daphné
 
-## 💻 Développeuse Full-Stack 
+## 💻 Développeuse Full-Stack en devenir
 
 Actuellement en formation intensive chez **O'Clock** (2025-2026).
 
@@ -29,23 +29,22 @@ Actuellement en formation intensive chez **O'Clock** (2025-2026).
 - Déploiement d'applications
 - Figma/Canva pour le design
 
-### 🎯 Ce qui me caractérise
+### Ce qui me caractérise
 
-- 🔍 **Analyse des besoins** : Mon expérience en relation client me permet de comprendre rapidement les attentes utilisateurs
-- 🤝 **Travail d'équipe** : Habituée à collaborer et communiquer efficacement
-- 🎨 **Sensibilité UX/UI** : Créer des interfaces intuitives et agréables
-- 🌱 **Apprentissage continu** : Toujours curieuse d'apprendre de nouvelles technologies
+- 🔎 **Analyse des besoins** : Mon expérience en relation client me permet de comprendre rapidement les attentes utilisateurs
+- 👩🏽‍🤝‍👨🏾 **Travail d'équipe** : Habituée à collaborer et communiquer efficacement
+- 👩🏻‍🎨 **Sensibilité UX/UI** : Créer des interfaces intuitives et agréables
+- 💭 **Apprentissage continu** : Toujours curieuse d'apprendre de nouvelles technologies
 
+### Projets en vedette
 
-### 🚀 Projets en vedette
+Mes projets arrivent bientôt... En attendant, je construis mes compétences à travers ma formation O'Clock.
 
-🔜 Mes projets arrivent bientôt ! En attendant, je construis mes compétences à travers ma formation O'Clock.
+### ✉️ Me contacter
 
-### 📫 Me contacter
-
-- 💼 [LinkedIn](https://linkedin.com/in/daphneatrv/)
-- 📧 daphne.dematosp@icloud.com
-- 📍 Paris, France
+- [LinkedIn](https://linkedin.com/in/daphneatrv/)
+- daphne.dematosp@icloud.com
+- Paris, France
 
 ---
 
@@ -58,6 +57,6 @@ Actuellement en formation intensive chez **O'Clock** (2025-2026).
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-💡 *En reconversion professionnelle, je suis ouverte aux opportunités de stage et d'alternance !*
+En reconversion professionnelle, je suis ouverte aux opportunités de stage et d'alternance.
 
 </div>
